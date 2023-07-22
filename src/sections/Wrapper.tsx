@@ -1,3 +1,3 @@
 export default function Wrapper() {
-  return <div>Wrapper</div>
+  return <div className="content">Wrapper</div>
 }
